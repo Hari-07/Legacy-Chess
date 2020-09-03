@@ -78,8 +78,6 @@ void main()
   outtextxy(midx+280,midy-15,"DESIGNED AND DEVELOPED BY:");
   setcolor(12);
   outtextxy(midx+280,midy,"Harinandan R Nair");
-  outtextxy(midx+280,midy+15,"Deepak Sreekanthan");
-  outtextxy(midx+280,midy+30,"Gokul Krishna");
 
   setcolor(15);
     while(e)
